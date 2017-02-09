@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#define   N  2000
+#define   N  4000
 void step1();
 void step2();
 
